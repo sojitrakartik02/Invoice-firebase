@@ -71,7 +71,7 @@ const Register = () => {
       <div className="login-container">
         <div className="login-boxes login-left"></div>
         <div className="login-boxes login-right">
-          <h2 className="login-heading">Create yoour Account</h2>
+          <h2 className="login-heading">Create your Account</h2>
           <form onSubmit={submitHandler}>
             <input
               required
